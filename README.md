@@ -1,7 +1,7 @@
 ## Hi there 👋
 I am JJ, a Cybersecurity student at LoneStar College in Houston.
 
-I enjoy any tech related and love diving into different tech topics.
+I enjoy anything tech related and love diving into different tech topics.
 <!--
 **FrescoActual/FrescoActual** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
